@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Simple Port Scanner - Day 1 of 30-Day CyberSec Challenge
-Scans common ports on target host to identify open services
+Simple Port Scanner - Scans common ports on target host to identify open services
 """
 import socket
 import sys
